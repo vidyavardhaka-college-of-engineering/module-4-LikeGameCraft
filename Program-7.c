@@ -18,3 +18,4 @@ if(*ptr1 > *ptr2)
  {
   printf("%d is the maximum number",*ptr2);
  }
+}
