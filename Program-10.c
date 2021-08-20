@@ -17,7 +17,7 @@ int main()
    printf("The elements you entered are : \n");
    for(i=1;i<n;i++)
       {
-          printf("%d ",*(arr1+i));
+          printf("%d",*(arr1+i));
 	  }
 	   return 0;
 }
