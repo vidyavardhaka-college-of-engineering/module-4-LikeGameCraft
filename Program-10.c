@@ -15,9 +15,9 @@ int main()
 	   scanf(" %d",&arr1[i]);
 	  }
    printf("The elements you entered are : \n");
-   for(i=0;i<n;i++)
+   for(i=1;i<n;i++)
       {
-          printf("%d",*(arr1+i));
+          printf("%d ",*(arr1+i));
 	  }
 	   return 0;
 }
